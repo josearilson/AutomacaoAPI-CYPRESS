@@ -1,0 +1,19 @@
+{
+  "name": "primeiro-projeto",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com Cypress com ALURA",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:reporter": "cypress run --reporter mochawesome"
+  },
+  "author": "Jose Arilson",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.3"
+  }
+}

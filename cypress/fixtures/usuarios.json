@@ -1,0 +1,34 @@
+[
+  { 
+  "email": "matheus@example.com",
+  "fullName":"matheus cypress",
+  "username":"matheus",
+  "password":"123"
+},
+{ 
+  "email": "Pedro@example.com",
+  "fullName":"Pedro cypress",
+  "username":"Pedro",
+  "password":"123"
+},
+{ 
+  "email": "Renato@example.com",
+  "fullName":"Renato cypress",
+  "username":"Renato",
+  "password":"123"
+},
+{ 
+  "email": "Claudio@example.com",
+  "fullName":"Claudio cypress",
+  "username":"Claudio",
+  "password":"123"
+},
+{ 
+  "email": "fernando@example.com",
+  "fullName":"fernando cypress",
+  "username":"fernando",
+  "password":"123"
+}
+
+
+]
