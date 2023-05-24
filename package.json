@@ -4,6 +4,7 @@
   "description": "Primeiro projeto com Cypress com ALURA",
   "main": "index.js",
   "scripts": {
+     "test": "cypress run",
     "cy:open": "cypress open",
     "cy:run": "cypress run",
     "cy:reporter": "cypress run --reporter mochawesome"
