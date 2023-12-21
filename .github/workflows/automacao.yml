@@ -8,7 +8,7 @@ on:
   push:
     branches: [ master ]
 
-jobs:
+jobs: 
   build:
     # maquina onde o workflow será executado
     runs-on: ubuntu-latest
